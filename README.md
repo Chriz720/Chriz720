@@ -1,4 +1,4 @@
-## Olá! Eu sou o Christian Fagundes 👋
+# Olá! Eu sou Christian Fagundes 👋
 
 Sou estudante e entusiasta da tecnologia, da criatividade e da comunicação. Gosto de aprender coisas novas, explorar diferentes áreas do conhecimento e transformar ideias em projetos.
 
